@@ -4,4 +4,4 @@
 ## [Eercise_03](https://www.zybuluo.com/XF/note/513375)
 ## [Eercise_04](https://www.zybuluo.com/mdeditor#525844)
 ## [Eercise 05](https://www.zybuluo.com/XF/note/534130)
-## [Eercise 05](https://www.zybuluo.com/XF/note/542456)
+## [Eercise 06](https://www.zybuluo.com/XF/note/542456)
