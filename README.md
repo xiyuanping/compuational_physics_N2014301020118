@@ -1,8 +1,9 @@
 # compuational_physics_N2014301020118
 ## homework list 
 ## [Exercise_02](https://www.zybuluo.com/mdeditor#513366)
-## [Eercise_03](https://www.zybuluo.com/XF/note/513375)
-## [Eercise_04](https://www.zybuluo.com/mdeditor#525844)
-## [Eercise 05](https://www.zybuluo.com/XF/note/534130)
-## [Eercise 06](https://www.zybuluo.com/XF/note/542456)
-## [Eercise 07](https://www.zybuluo.com/XF/note/557965)
+## [Exercise_03](https://www.zybuluo.com/XF/note/513375)
+## [Exercise_04](https://www.zybuluo.com/mdeditor#525844)
+## [Exercise 05](https://www.zybuluo.com/XF/note/534130)
+## [Exercise 06](https://www.zybuluo.com/XF/note/542456)
+## [Exercise 07](https://www.zybuluo.com/XF/note/557965)
+## [Exercise 08](https://www.zybuluo.com/XF/note/566009)
