@@ -10,3 +10,4 @@
 ## [Exercise 09](https://www.zybuluo.com/XF/note/573715)
 ## [Exercise 10](https://www.zybuluo.com/XF/note/581826)
 ## [Exercise 11](https://www.zybuluo.com/XF/note/590038)
+## [Exercise 12](https://www.zybuluo.com/XF/note/597889)
