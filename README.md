@@ -3,7 +3,7 @@
 ## [Exercise_02](https://www.zybuluo.com/mdeditor#513366)
     初出茅庐，现在回头看看我当初真是too young  233
 ## [Exercise_03](https://www.zybuluo.com/XF/note/513375)
-    每周日晚按时更新...deadline是第一生产力！
+   每周日晚按时更新...deadline果然是第一生产力！
 ## [Exercise_04](https://www.zybuluo.com/mdeditor#525844)
     每周日晚按时更新...
 ## [Exercise 05](https://www.zybuluo.com/XF/note/534130) 
